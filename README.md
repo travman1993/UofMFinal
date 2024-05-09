@@ -1,2 +1,0 @@
-# UofMFinal
-Last Project
