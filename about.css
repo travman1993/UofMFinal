@@ -101,7 +101,7 @@ footer {
     }
 }
 
-@media screen and (min-device-width: 1001px) and (max-device-width: 1300px) {
+@media screen and (min-device-width: 1001px) and (max-device-width: 1408px) {
     a {
         font-size: 2rem;
     }
