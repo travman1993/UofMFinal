@@ -70,10 +70,6 @@ a:active {
     color: #118c36;
 }
 
-a:visited {
-    color: #28a4d2;
-}
-
 footer {
     position: sticky;
     display: flex;
