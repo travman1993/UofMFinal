@@ -60,6 +60,7 @@ a {
 
 a:hover {
     color: #e91313;
+    text-decoration: underline;
 }
 
 a:active {
